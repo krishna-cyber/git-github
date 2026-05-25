@@ -1,1 +1,3 @@
-New file feature 1 branch
+New file feature 1 branch.
+
+changes in file branch feature1
