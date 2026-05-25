@@ -5,3 +5,5 @@ changes in file branch feature1
 second change in feature brach1
 
 changes third in feature branch
+third changes
+fortrh change
